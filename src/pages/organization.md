@@ -8,9 +8,6 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+## Our values
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum ipsum lacus, in ultricies magna imperdiet quis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi cursus augue non eros rutrum tristique. Proin quis rutrum quam. Nulla non tincidunt dolor. Fusce vitae ipsum ut erat tempor semper. Mauris porttitor id orci at ornare.
